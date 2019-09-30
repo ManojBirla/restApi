@@ -1,0 +1,16 @@
+[ {
+  "cust-id" : 101,
+  "cust-email" : "johny@gmail.com",
+  "cust-name" : "Johny",
+  "dob" : "1995-01-01"
+}, {
+  "cust-id" : 102,
+  "cust-email" : "Smith@gmail.com",
+  "cust-name" : "Smith",
+  "dob" : "1995-01-01"
+}, {
+  "cust-id" : 103,
+  "cust-email" : "George@gmail.com",
+  "cust-name" : "George",
+  "dob" : "1995-01-01"
+} ]

@@ -1,0 +1,1 @@
+{"swagger":"2.0","info":{"description":"First Rest with Swagger","version":"API Rest","title":"My REST API","termsOfService":"Terms of service","contact":{"name":"johny","url":"www.alljobalert.ooo","email":"Man@company.com"},"license":{"name":"License of API","url":"API license URL"}},"host":"localhost:8787","basePath":"/Rest11-SBoot-RestClient-Provider"}
